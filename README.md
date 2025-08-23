@@ -39,19 +39,19 @@ I'm a passionate **Flutter Developer** with over **3 years of experience** in bu
 
 ## 🌟 Featured Projects
 
-### [ieMenu](https://iemenu.aerspeck.com)
+### [Noshbuy](https://noshbuy.com)
 - A Flutter-based food delivery app that allows users to browse restaurants, place orders, and track deliveries in real-time.
 - Features include user authentication, menu browsing, cart management, payment integration, and order tracking.
 - Built with Provider for state management and Firebase for backend services.
 - Achieved 4.7/5 rating on the Play Store with over 50,000+ downloads.
 
-### [ieVendor](https://ievendor.aerspeck.com)
+### [Noshbuy Vendors](https://noshbuy.com)
 - A vendor-side app designed for restaurant owners to manage orders, update menus, and track sales.
 - Features include order management, menu customization, sales analytics, and push notifications.
 - Integrated with Firebase Firestore for real-time data synchronization and Flutterwave for payment processing.
 - Optimized for both mobile and tablet devices.
 
-### [ieRider](https://ierider.aerspeck.com)
+### [Citidrops](https://citidrops.com)
 - A multi-dispatch rider app that enables delivery riders to manage multiple orders simultaneously.
 - Features include real-time order assignment, route optimization, delivery tracking, and earnings dashboard.
 - Built with Provider for state management and Google Maps API for navigation.
@@ -61,7 +61,7 @@ I'm a passionate **Flutter Developer** with over **3 years of experience** in bu
 
 I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me via:
 
-- **Email**: [sylvbravo@gmail.com](mailto:sylvbravo@gmail.com)
+- **Email**: [sylvbravo@gmail.com](mailto:info@aerspeck.com)
 - **LinkedIn**: [linkedin.com/in/sylvobravo](https://linkedin.com/in/sylvobravo)
 - **Twitter**: [@iketoke](https://twitter.com/iketoke)
 - **Portfolio**: [Aerspeck](https://aerspeck.com)
