@@ -61,7 +61,7 @@ I'm a passionate **Flutter Developer** with over **3 years of experience** in bu
 
 I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me via:
 
-- **Email**: [contact](mailto:info@aerspeck.com)
+- **Email**: [contact](mailto:sylvester.michael@aerspeck.com)
 - **LinkedIn**: [view profile](https://linkedin.com/in/sylvobravo)
 - **Twitter**: [view profile](https://twitter.com/iketoke)
 - **Portfolio**: [Check it out](https://dev.aerspeck.com)
