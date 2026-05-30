@@ -91,6 +91,4 @@ I build scalable, production-ready mobile applications with strong backend syste
 
 ---
 
-## ✨ “Building mobile systems that scale, perform, and deliver real-world impact.”
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Mobile+Developer;Flutter+%7C+Node.js+%7C+Laravel;Building+production+mobile+apps...)
