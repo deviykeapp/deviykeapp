@@ -1,4 +1,4 @@
-# Hi, I'm Sylvester 👋
+# Hi, I'm Iketoke 👋
 
 ### Full-Stack Developer | Mobile + Web Engineer
 
