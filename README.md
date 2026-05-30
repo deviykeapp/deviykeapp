@@ -89,6 +89,4 @@ I build scalable, production-ready mobile applications with strong backend syste
 
 ## 📫 Let's Connect
 
----
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Mobile+Developer;Flutter+%7C+Node.js+%7C+Laravel;Building+production+mobile+apps...)
