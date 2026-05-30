@@ -1,96 +1,80 @@
-# Welcome to My GitHub Profile! 👋
+# Hi, I'm Iketoke 👋
 
-I'm a passionate **Flutter Developer** with over **3 years of experience** in building beautiful, high-performance, and scalable cross-platform mobile applications. I specialize in creating seamless user experiences and leveraging the power of Flutter to deliver robust solutions for Android, iOS, and web platforms.
+### Flutter Developer | Mobile App Engineer
 
-## 🚀 Skills & Expertise
-
-- **Flutter Development**: Proficient in building cross-platform applications with Flutter and Dart.
-- **State Management**: Expertise in **Provider**, **Riverpod**, **Bloc/Cubit**, and **GetX**.
-- **UI/UX Design**: Skilled in creating responsive and visually appealing interfaces using Flutter widgets and custom designs.
-- **API Integration**: Experience in integrating RESTful APIs, GraphQL, and WebSocket for real-time applications.
-- **Firebase**: Proficient in Firebase services like **Firestore**, **Authentication**, **Cloud Functions**, and **Push Notifications**.
-- **Version Control**: Strong knowledge of **Git** and collaborative workflows using **GitHub** and **GitLab**.
-- **Testing**: Experience in writing unit tests, widget tests, and integration tests for Flutter apps.
-- **CI/CD**: Familiar with setting up CI/CD pipelines for automated testing and deployment.
-- **Agile Development**: Experience working in Agile/Scrum environments for efficient project delivery.
-
-## 💼 Professional Experience
-
-### Flutter Developer | Aerspeck Ltd | Nov 2023 - Present
-- Developed and maintained **production-ready Flutter applications** for clients across various industries.
-- Collaborated with cross-functional teams to design, develop, and deploy scalable mobile solutions.
-- Optimized app performance, reducing load times by **30%** and improving overall user experience.
-- Integrated third-party libraries and APIs to enhance app functionality.
-- Conducted code reviews and mentored junior developers to ensure code quality and best practices.
-
-### Freelance Flutter Developer | Self-Employed | Sept 2024 - Feb 2025
-- Delivered **custom Flutter applications** for startups and small businesses.
-- Worked closely with clients to understand their requirements and provided tailored solutions.
-- Ensured timely delivery of projects while maintaining high-quality standards.
-
-## 🛠️ Tools & Technologies
-
-- **Languages**: Dart, php
-- **Frameworks**: Flutter
-- **Backend**: Firebase, php
-- **Databases**: Firestore, SQLite, MySQL
-- **Tools**: Android Studio, VS Code, Postman
-- **DevOps**: GitHub Actions
-
-## 🌟 Featured Projects
-
-### [Noshbuy](https://noshbuy.com)
-- A Flutter-based food delivery app that allows users to browse restaurants, place orders, and track deliveries in real-time.
-- Features include user authentication, menu browsing, cart management, payment integration, and order tracking.
-- Built with Provider for state management and Firebase for backend services.
-- Achieved 4.7/5 rating on the Play Store with over 50,000+ downloads.
-
-### [Noshbuy Vendors](https://noshbuy.com)
-- A vendor-side app designed for restaurant owners to manage orders, update menus, and track sales.
-- Features include order management, menu customization, sales analytics, and push notifications.
-- Integrated with Firebase Firestore for real-time data synchronization and Flutterwave for payment processing.
-- Optimized for both mobile and tablet devices.
-
-### [Citidrops](https://citidrops.com)
-- A multi-dispatch rider app that enables delivery riders to manage multiple orders simultaneously.
-- Features include real-time order assignment, route optimization, delivery tracking, and earnings dashboard.
-- Built with Provider for state management and Google Maps API for navigation.
-- Designed to handle high volumes of orders efficiently.
-
-## 📫 Let's Connect!
-
-I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me via:
-
-- **Email**: [contact](mailto:sylvester.michael@aerspeck.com)
-- **LinkedIn**: [view profile](https://linkedin.com/in/sylvobravo)
-- **Twitter**: [view profile](https://twitter.com/iketoke)
-- **Portfolio**: [Check it out](https://dev.aerspeck.com)
+I build high-performance, scalable, and beautiful cross-platform mobile applications using Flutter.
 
 ---
 
-⭐️ **Star** my repositories if you find them useful, and let's build something amazing together! ⭐️
+## 🚀 What I Do
+
+- 📱 Cross-platform mobile apps (Android, iOS, Web)
+- ⚡ Performance-optimized Flutter applications
+- 🔗 API & backend integrations (REST, Firebase, GraphQL)
+- 🎯 Clean UI/UX focused product development
 
 ---
 
-**Thank you for visiting my profile!** 😊
+## 🛠️ Tech Stack
 
-<!---
-sylvobravo/sylvobravo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages:** Dart, PHP  
+**Frameworks:** Flutter  
+**Backend:** Firebase, PHP, REST APIs  
+**Databases:** Firestore, SQLite, MySQL  
+**Tools:** Git, GitHub, Postman, VS Code, Android Studio  
+**State Management:** Provider, Riverpod, Bloc, GetX  
+**DevOps:** GitHub Actions, CI/CD pipelines  
 
+---
 
-<!--
-**sylvbravo/sylvbravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Experience
 
-Here are some ideas to get you started:
+### Flutter Developer — Aerspeck Ltd
+*Nov 2023 – Present*
+- Built production-ready mobile applications across multiple industries
+- Improved app performance by **30%**
+- Integrated APIs, payment systems, and real-time features
+- Mentored junior developers and reviewed production code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Freelance Flutter Developer
+*Sep 2024 – Feb 2025*
+- Delivered custom Flutter apps for startups and businesses
+- Built end-to-end mobile solutions from design to deployment
+- Ensured fast delivery with production-level quality
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 Noshbuy (Food Delivery App)
+- Real-time food ordering & delivery system
+- 50,000+ downloads | 4.7★ rating
+- Firebase + Provider architecture
+- Payment integration + order tracking
+
+### 🏪 Noshbuy Vendors
+- Vendor dashboard for restaurant owners
+- Order management + analytics system
+- Real-time sync with Firestore
+- Flutterwave payment integration
+
+### 🚚 Citidrops
+- Multi-rider dispatch & logistics app
+- Google Maps integration for routing
+- Real-time order assignment system
+- Earnings dashboard for riders
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: hello@deviyke.com 
+- 💼 LinkedIn: linkedin.com/in/deviykeapp  
+- 🧑‍💻 Portfolio: https://deviyke.com
+- 🐦 Twitter: @deviykeapp  
+
+---
+
+⭐ If you like my work, consider starring my repositories!
+
+---
